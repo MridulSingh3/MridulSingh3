@@ -73,8 +73,8 @@ I am a passionate **Full-Stack Web Developer** and an active **Competitive Progr
 ---
 
 ### 🤝 Connect with Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [Mridul Singh](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- **Email:** mriduldhakad@gmail.com
+- **LinkedIn:** www.linkedin.com/in/mridul-dhakad-4767a32a8
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/诅咒.gif" width="60%" alt="Footer Animation" />
