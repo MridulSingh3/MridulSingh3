@@ -1,74 +1,119 @@
-<h1 align="center">Hi 👋, I'm Mridul Singh</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • Java • DSA
-</h3>
+# 👋 Hi, I'm Mridul Singh
 
-<p align="center">
-Passionate about building scalable web applications and solving complex problems through code.
-</p>
+### Full Stack Developer | MERN Stack | Java | DSA Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Programmer;DSA+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning System Design & Design Patterns
-- 📚 Practicing Data Structures & Algorithms in Java
-- ⚡ Building projects with the MERN Stack
-- 🎯 Aspiring Software Engineer
+```java
+class MridulSingh {
+
+    String role = "Full Stack Developer";
+
+    String[] skills = {
+        "Java",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    };
+
+    String currentFocus = "System Design & Design Patterns";
+
+    String motto = "Learn → Build → Improve → Repeat";
+}
+```
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode)
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎯 Quiz Application
-Full Stack Quiz Platform using React, Node.js, Express.js, and MongoDB.
 
-### ⚛ React Projects
-Collection of React applications and UI experiments.
+Full Stack Quiz Platform built with:
 
-### 🚀 Node.js Projects
-REST APIs, authentication systems, and backend services.
+- React
+- Node.js
+- Express.js
+- MongoDB
 
-### 📚 DSA Repository
-Java solutions for Data Structures and Algorithms.
+Features:
+
+- Authentication
+- Quiz Management
+- Result Tracking
+- Performance Analytics
 
 ---
 
-## 📊 GitHub Stats
+### 📚 Data Structures & Algorithms
+
+Java solutions for:
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+### 🚀 MERN Stack Projects
+
+Real-world applications using:
+
+- React
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MridulSingh3&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSingh3&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MridulSingh3&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSingh3&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -76,17 +121,38 @@ Java solutions for Data Structures and Algorithms.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MridulSingh3&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MridulSingh3&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MridulSingh3&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Design Patterns
+- System Design
+- Advanced MERN Stack
+- Clean Architecture
+
+---
+
+## 📫 Connect With Me
 
 📧 Email: **mriduldhakad@gmail.com**
 
 ---
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
+<div align="center">
+
+### 💡 "Consistency Beats Talent When Talent Doesn't Work Hard"
+
+⭐ Thanks for visiting my profile!
+
+</div>
