@@ -6,7 +6,7 @@
   <a href="https://github.com/MridulSingh3">
     <img src="https://img.shields.io/github/followers/MridulSingh3?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="www.linkedin.com/in/mridul-dhakad-4767a32a8">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
