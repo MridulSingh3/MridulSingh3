@@ -32,3 +32,19 @@ const mridul = {
   architecture: "Microservices & Serverless Solutions",
   challenge: "Cracking complex Data Structures & Algorithms"
 };
+
+## 🤝 Get In Touch
+
+I am always open to exploring enterprise collaborations, open-source initiatives, or technical innovations. Feel free to reach out via any of the channels below:
+
+<div align="left">
+  <ul>
+    <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8" target="_blank">linkedin.com/in/mridul-singh</a></li>
+    <li>✉️ <b>Professional Email:</b> <a href="mailto:mriduldhakad@gmail.com">mriduldhakad@gmail.com</a></li>
+  </ul>
+</div>
+
+<div align="center">
+  <!-- Professional Animated Footer Wave Accent -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" width="100%" alt="Footer Wave"/>
+</div>
