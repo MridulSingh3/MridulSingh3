@@ -3,10 +3,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/MridulSingh3">
+  <a href="https://github.com/MridulSingh3" target="_blank">
     <img src="https://img.shields.io/github/followers/MridulSingh3?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers">
   </a>
-  <a href="www.linkedin.com/in/mridul-dhakad-4767a32a8">
+  <a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -74,8 +74,8 @@ I am a passionate **Full-Stack Web Developer** and an active **Competitive Progr
 
 ### 🤝 Connect with Me
 - **Email:** mriduldhakad@gmail.com
-- **LinkedIn:** www.linkedin.com/in/mridul-dhakad-4767a32a8
+- **LinkedIn:** [linkedin.com/in/mridul-dhakad-4767a32a8](https://www.linkedin.com/in/mridul-dhakad-4767a32a8)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/诅咒.gif" width="60%" alt="Footer Animation" />
+  <img src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203193133/83186d081f9b3781b0ff42c5f9cb463c.gif" width="50%" alt="Footer Coding Animation" />
 </div>
