@@ -1,70 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mridul+Singh!;Building+Modern+Web+Apps;Cracking+DSA+Problems" alt="Typing SVG" />
+  <!-- Dynamic Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Mridul+Singh!;Full-Stack+Software+Engineer;Competitive+Programmer" alt="Typing SVG" />
+
+  <p>
+    <a href="https://github.com/MridulSingh3" target="_blank">
+      <img src="https://img.shields.io/github/followers/MridulSingh3?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers">
+    </a>
+    <a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
+
+  <!-- Professional Premium Animated Vector Graphic -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="75%" alt="Developer Workflow Animation" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/MridulSingh3" target="_blank">
-    <img src="https://img.shields.io/github/followers/MridulSingh3?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers">
-  </a>
-  <a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+---
+
+## 💫 Executive Summary
+
+I am a results-driven **Full-Stack Web Developer** and dedicated **Competitive Programmer**. I specialize in architecting highly scalable web applications, optimizing data structures for maximum efficiency, and implementing automated infrastructure pipelines.
+
+- 🚀 **Next.js & React Expert:** Advanced performance optimization and state management.
+- 💡 **Cloud & Infrastructure Architecture:** Deeply focused on container orchestration, CI/CD pipelines, and cloud native services.
+- 🎯 **Algorithmic Problem Solving:** Passionate about conquering intricate data structure and algorithmic challenges.
 
 ---
 
-## 💫 About Me
+## 🛠️ Tech Stack & Competencies
 
-I am a passionate **Full-Stack Web Developer** and an active **Competitive Programmer**. I love architecting scalable web applications, optimizing backend workflows, and diving deep into complex algorithmic challenges. 
-
-- 🚀 Currently perfecting dynamic applications with **Next.js** and **Tailwind CSS**.
-- 💡 Deeply interested in cloud infrastructure, container orchestration, and serverless architectures.
-- 🎯 Focused on mastering advanced **Data Structures & Algorithms**.
-- 💞️ Looking to collaborate on open-source projects or interesting web applications.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-### ⚙️ Backend & Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-
-### ☁️ Infrastructure & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+| Layer | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Engineering** | `Next.js` `React.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5/CSS3` |
+| **Backend & Runtime** | `Java` `Node.js` `Express.js` `RESTful APIs` |
+| **Cloud & DevOps** | `Amazon Web Services (AWS)` `Docker` `Kubernetes` `Git / GitHub Actions` |
 
 ---
 
-## 📊 GitHub Metrics & Insights
+## 📊 Performance Analytics & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MridulSingh3&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MridulSingh3&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=MridulSingh3&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MridulSingh3&theme=tokyonight" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSingh3&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
+</div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Engineering Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MridulSingh3&theme=tokyonight" alt="Activity Graph" width="100%" />
@@ -72,10 +64,18 @@ I am a passionate **Full-Stack Web Developer** and an active **Competitive Progr
 
 ---
 
-### 🤝 Connect with Me
-- **Email:** mriduldhakad@gmail.com
-- **LinkedIn:** [linkedin.com/in/mridul-dhakad-4767a32a8](https://www.linkedin.com/in/mridul-dhakad-4767a32a8)
+## 🤝 Get In Touch
+
+I am always open to exploring enterprise collaborations, open-source initiatives, or technical innovations. Feel free to reach out via any of the channels below:
+
+<div align="left">
+  <ul>
+    <li>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mridul-dhakad-4767a32a8" target="_blank">linkedin.com/in/mridul-singh</a></li>
+    <li>✉️ <b>Professional Email:</b> <a href="mailto:mriduldhakad@gmail.com">mriduldhakad@gmail.com</a></li>
+  </ul>
+</div>
 
 <div align="center">
-  <img src="https://cdn.gamedevmarket.net/wp-content/uploads/20191203193133/83186d081f9b3781b0ff42c5f9cb463c.gif" width="50%" alt="Footer Coding Animation" />
+  <!-- Professional Animated Footer Wave Accent -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer" width="100%" alt="Footer Wave"/>
 </div>
